@@ -1,0 +1,41 @@
+vendor_id,vendor_name,category,payment_terms_days
+V001,Vendor_001,Logistics,30
+V002,Vendor_002,Raw Material,60
+V003,Vendor_003,Raw Material,60
+V004,Vendor_004,Facilities,45
+V005,Vendor_005,Facilities,30
+V006,Vendor_006,Consulting,60
+V007,Vendor_007,Logistics,45
+V008,Vendor_008,Raw Material,60
+V009,Vendor_009,IT Services,60
+V010,Vendor_010,Logistics,60
+V011,Vendor_011,Facilities,60
+V012,Vendor_012,Consulting,30
+V013,Vendor_013,Raw Material,45
+V014,Vendor_014,Raw Material,45
+V015,Vendor_015,Raw Material,45
+V016,Vendor_016,Raw Material,30
+V017,Vendor_017,Facilities,45
+V018,Vendor_018,Logistics,30
+V019,Vendor_019,Consulting,60
+V020,Vendor_020,Facilities,60
+V021,Vendor_021,Facilities,60
+V022,Vendor_022,IT Services,60
+V023,Vendor_023,Logistics,45
+V024,Vendor_024,Consulting,60
+V025,Vendor_025,Raw Material,45
+V026,Vendor_026,Raw Material,30
+V027,Vendor_027,Facilities,60
+V028,Vendor_028,Consulting,45
+V029,Vendor_029,Facilities,30
+V030,Vendor_030,Facilities,45
+V031,Vendor_031,Facilities,60
+V032,Vendor_032,IT Services,30
+V033,Vendor_033,Logistics,45
+V034,Vendor_034,Facilities,30
+V035,Vendor_035,Consulting,60
+V036,Vendor_036,Logistics,45
+V037,Vendor_037,Consulting,30
+V038,Vendor_038,Consulting,30
+V039,Vendor_039,IT Services,45
+V040,Vendor_040,Raw Material,60
