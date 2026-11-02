@@ -148,7 +148,3 @@ These are potential uses, not measured outcomes from a company.
 - Partial months can affect the monthly trend.
 - SQL scripts require database setup and CSV import.
   Detailed reproduction instructions are not included.
-
-## Author
-
-Mohammad Zaid
